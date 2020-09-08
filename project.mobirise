@@ -102,7 +102,7 @@
           },
           "title": "GRAMFREE<br>",
           "text": "<b>Would you like to earn $130 online for FREE?</b><br><br>- withdraw to Bitcoin, Ethereum, MasterCard, Visa, PayPal, M-PESA, American Express, Payoneer, Skrill, Neteller, EcoPayz.<br><br>All you have to do is to freely register by clicking the below button and do some daily tasks as following:<br><br>- 5 times lucky number hourly drawn.<br>- watch 5 videos daily.<br>- take 4 smart contracts daily.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://gramfree.world/?r=199867\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Free Sign Up</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://gramfree.world/?r=199867\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Free Sign Up</a>",
           "_tags": [
             "Theme"
           ],
@@ -244,7 +244,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">My GramFree Facebook Page</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.facebook.com/GrabanyGramFree\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My GramFree Facebook Page</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-3"
         }
