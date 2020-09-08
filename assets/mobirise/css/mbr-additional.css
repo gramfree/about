@@ -465,3 +465,10 @@ section.form .container {
 #header6-0 .btn {
   font-size: 24px;
 }
+#msg-box3-3 .mbr-section-title,
+#msg-box3-3 .lead {
+  color: #000;
+}
+#msg-box3-3 .btn {
+  font-size: 24px;
+}
